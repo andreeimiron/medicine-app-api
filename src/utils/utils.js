@@ -32,7 +32,7 @@ const sendLoginDetails = async (name, email, password) => {
             <p>Acestea sunt datele tale de autentificare pe platforma noastra medicala.</p>  
             <p><strong>email:</strong> ${email}</p>
             <p><strong>parola:</strong> ${password}</p>
-            <p>Apasa <a href="http://localhost:8000/login">aici</a> pentru a accesa platforma sau copiaza acest link in browser: <strong>http://localhost:8000/login</strong></p>
+            <p>Apasa <a href="http://localhost:3000/login">aici</a> pentru a accesa platforma sau copiaza acest link in browser: <strong>http://localhost:3000/login</strong></p>
             <br>
             <p>Iti dorim o zi productiva!</p>
             <p>Echipa Medical App</p>
